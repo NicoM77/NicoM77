@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Nico+Marra;Software+Developer;Software+with+passion" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Nico+Marra;Software+Developer;Software+with+passion" alt="Typing SVG" />
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NicoM77&color=blueviolet&style=flat-square)
@@ -13,10 +13,6 @@
 
 I'm a passionate web developer with a love for creating **beautiful and functional websites**. I have a diverse skill set that includes both front-end and back-end development, and I enjoy working on projects that challenge me to learn new things and improve my skills.
 
-<table>
-<tr>
-<td>
-
 **🏢 Current Role:** Apprentice Application Developer at **OPTEN AG** (since 2023)
 
 **🗣️ Languages:** German (native) | English (fluent)
@@ -24,10 +20,6 @@ I'm a passionate web developer with a love for creating **beautiful and function
 **🤿 Hobbies:** Diving (SSI Open Water Diver) | Technology | Programming
 
 **📍 Location:** Zurich, Switzerland
-
-</td>
-</tr>
-</table>
 
 ---
 
