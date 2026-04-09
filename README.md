@@ -49,11 +49,3 @@ I'm a passionate web developer with a love for creating **beautiful and function
 
 </div>
 
-
----
-
-<div align="center">
-
-### 🌟 Feel free to connect with me or explore my repositories! 😊
-</div>
-
