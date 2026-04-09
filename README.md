@@ -49,19 +49,6 @@ I'm a passionate web developer with a love for creating **beautiful and function
 
 </div>
 
----
-
-## 📬 Get In Touch
-
-<div align="center">
-
-| Contact Method | Link |
-|:---:|:---:|
-| 📧 **Email** | [Contact Form](mailto:info@nico.how) |
-| 💼 **Website** | [nico.how](https://www.nico.how) |
-| 🌐 **Social** | [Instagram](https://www.instagram.com/nico.marra.77/) |
-
-</div>
 
 ---
 
